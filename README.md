@@ -31,6 +31,7 @@ Users can search for any city and get real-time weather information.
 
 ## 📂 Project Structure
 
+```
 Weather_App_Flask_backend/
 │
 ├── app.py
@@ -38,9 +39,10 @@ Weather_App_Flask_backend/
 ├── .gitignore
 │
 ├── templates/
-│ └── index.html
+│   └── index.html
 │
 ├── static/
-│ ├── style.css
-│ ├── script.js
-│ └── images/
+│   ├── style.css
+│   ├── script.js
+│   └── images/
+```
