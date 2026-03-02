@@ -1,4 +1,5 @@
-flask
-requests
-python-dotenv
+Flask
 flask-cors
+python-dotenv
+requests
+gunicorn
