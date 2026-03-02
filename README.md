@@ -29,14 +29,18 @@ Users can search for any city and get real-time weather information.
 
 ---
 
-## 📸 Screenshots
-
-### 🖥 Desktop View
-![Desktop Screenshot](media/desktop.png)
-
-### 📱 Mobile View
-![Mobile Screenshot](media/mobile.png)
-
----
-
 ## 📂 Project Structure
+
+Weather_App_Flask_backend/
+│
+├── app.py
+├── requirements.txt
+├── .gitignore
+│
+├── templates/
+│ └── index.html
+│
+├── static/
+│ ├── style.css
+│ ├── script.js
+│ └── images/
