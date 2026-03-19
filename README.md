@@ -1,7 +1,7 @@
 # 🌦 Weather App (Flask + OpenWeather API)
 
 A simple and clean weather application built using **Flask** and the **OpenWeatherMap API**.  
-Users can search for any city and get real-time weather information.
+Users can search for any city and get real-time weather information. 
 
 🚀 **Live Demo:**  
 👉 https://weather-app-flask-backend.onrender.com/
