@@ -19,6 +19,7 @@ Users can search for any city and get real-time weather information.
 
 ---
 
+
 ## 🛠 Tech Stack
 
 - **Backend:** Flask (Python)
