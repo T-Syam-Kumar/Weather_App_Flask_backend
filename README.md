@@ -10,7 +10,7 @@ Users can search for any city and get real-time weather information.
 
 ## ✨ Features
 
-- 🌍 Search weather by city name
+- 🌍 Search weather by city name 
 - 🌡 Temperature (°C)
 - 💧 Humidity
 - 💨 Wind Speed
