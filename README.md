@@ -10,12 +10,12 @@ Users can search for any city and get real-time weather information.
 
 ##  Features
 
-- 🌍 Search weather by city name 
-- 🌡 Temperature (°C)
-- 💧 Humidity
-- 💨 Wind Speed
-- ⚡ Fast API response
-- 🚀 Deployed on Render (Production Ready)
+-  Search weather by city name 
+-  Temperature (°C)
+-  Humidity
+-  Wind Speed
+-  Fast API response
+-  Deployed on Render (Production Ready)
 
 ---
 
