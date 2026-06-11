@@ -1,4 +1,4 @@
-#  Weather App (Flask + OpenWeather API)
+#  Weather App (Flask and OpenWeather API)
 
 A simple and clean weather application built using **Flask** and the **OpenWeatherMap API**.  
 Users can search for any city and get real-time weather information. 
