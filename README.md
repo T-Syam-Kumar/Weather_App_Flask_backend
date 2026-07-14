@@ -46,6 +46,7 @@ Weather_App_Flask_backend/
 │   ├── style.css
 │   ├── script.js
 │   └── images/
+--
 ```
 
 # Thanks for viewing the project
