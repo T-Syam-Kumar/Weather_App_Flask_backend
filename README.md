@@ -30,7 +30,7 @@ Users can search for any city and get real-time weather information.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Weather_App_Flask_backend/
@@ -47,3 +47,5 @@ Weather_App_Flask_backend/
 │   ├── script.js
 │   └── images/
 ```
+
+# Thanks for viewing the project
