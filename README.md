@@ -7,7 +7,7 @@ Users can search for any city and get real-time weather information.
  https://weather-app-flask-backend.onrender.com/
 
 ---
-
+  
 ##  Features
 
 -  Search weather by city name 
