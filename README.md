@@ -20,7 +20,7 @@ Users can search for any city and get real-time weather information.
 ---
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Backend:** Flask (Python)
 - **API:** OpenWeatherMap API
@@ -47,6 +47,3 @@ Weather_App_Flask_backend/
 │   ├── script.js
 │   └── images/
 --
-```
-
-# Thanks for viewing the project
