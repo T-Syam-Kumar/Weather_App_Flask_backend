@@ -18,8 +18,6 @@ Users can search for any city and get real-time weather information.
 -  Deployed on Render (Production Ready)
 
 ---
-
-
 ##  Tech Stack
 
 - **Backend:** Flask (Python)
